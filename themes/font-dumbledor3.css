@@ -2,13 +2,11 @@
   font-family: Dumbledor3;
   font-style: normal;
   font-weight: 400;
-  src: url(https://github.com/Djelle/magictome/raw/main/themes/dumbledor3.woff2) format('woff2'),
-    url(https://github.com/Djelle/magictome/raw/main/themes/Dumbledor3.ttf) format('ttf');
+  src: url(/local/magictome/dumbledor3.woff2) format('woff2');
 }
 @font-face {
   font-family: Dumbledor3;
   font-style: italic;
   font-weight: 400;
-  src: url(https://github.com/Djelle/magictome/raw/main/themes/dumbledor3_italic.woff2) format('woff2'),
-    url(https://github.com/Djelle/magictome/raw/main/themes/Dumbledor3_italic.ttf) format('ttf');
+  src: url(/local/magictome/dumbledor3_italic.woff2) format('woff2');
 }
